@@ -115,7 +115,7 @@
 
   &::after {
     padding-left: var(--number-padding-left);
-    color: oklch(100% 0% 90deg / 35%);
+    color: var(--number-unhovered-color);
 /*    mix-blend-mode: overlay;*/
     }
   }
